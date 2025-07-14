@@ -15,6 +15,12 @@ This is a simple yet effective web-based weather forecast application. It provid
   * **API Integration:** Seamlessly connects to the OpenWeatherMap API ([https://openweathermap.org/api](https://openweathermap.org/api)) to fetch accurate weather information.
   * **Responsive Design:** (Optional, add if applicable) The interface is designed to be user-friendly across different devices.
 
+## 📚 Credits
+
+This Weather Forecast Application was developed as a learning exercise by following a tutorial on YouTube.
+
+**Original tutorial by [Traversy Media](https://www.youtube.com/watch?v=krUdJ87uxXc)**.
+
 ## How to Run Locally
 
 1.  **Clone the repository:**
